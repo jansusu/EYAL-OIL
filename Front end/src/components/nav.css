@@ -1,0 +1,52 @@
+ .nav img{
+    width: 170px;
+    height: 90px;
+    padding: 8px;
+    padding-left: 30px;
+}
+
+.nav ul li{
+    list-style: none;
+    color: rgb(196, 250, 110);
+    display: inline;
+    padding-right: 20px;
+    padding-left: 40px;    
+    font-weight: bold; 
+    font-size: 20px;
+}
+.nav ul{
+    padding-top: 28px;
+    padding-left: 90px; 
+}
+.nav{
+    background-color: rgb(14, 44, 2);   
+}
+.nav ul li:hover{
+    transform: scale(1.1);
+}
+.nav img:hover{
+    transform: scale(1.1);
+}
+.lin{
+    text-decoration: none;
+    color: aliceblue;
+}
+.dropdown{
+ margin-top: 25px;
+ margin-left: 200px;
+}
+.dropdown-menu{
+    font-size: 7px;
+    line-height: 10px;
+    
+}
+.ic{
+    font-size: 25px;
+    padding: 10px;
+ 
+}
+.foot{
+    background-color: rgb(2, 83, 2);
+    color: aliceblue;
+   padding: 100px;
+}

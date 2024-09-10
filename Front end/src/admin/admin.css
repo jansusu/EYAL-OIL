@@ -1,0 +1,17 @@
+.up{
+    margin: 90px 90px 90px 400px;
+    width: 600px;
+    height: 900px;
+}
+.up1{
+    padding: 30px 30px 30px 70px;
+}
+.up1 label{
+    font-size: 20px;
+}
+.up1 input{
+    width: 400px;
+}
+.ad{
+    padding: 30px;
+}

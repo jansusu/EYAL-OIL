@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NO:wght@100..400&family=Sevillana&display=swap');
+.im img{
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.cd {
+    width: 400px;
+    height: 150px;
+    margin-left: 450px;
+    padding: 20px;
+}
+.ct{
+    background-image: url(../images/cartimg.jpg);
+    height: 800px;
+    width: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 300px;
+}
+.ct p{
+   color: white;
+   font-size: 40px;
+   padding-top: 380px;
+   padding-left: 230px;
+   font-family: "Playwrite NO", cursive;
+   font-weight: bold;
+}
+.ct button{
+    padding: 15px 30px 15px 30px;
+    color: red;
+    margin-left: 260px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Playwrite NO", cursive;
+    background-color: rgb(4, 80, 8);
+}
+.ye{
+    margin: 0px 10px 0px 10px;
+}
+.ctt{
+    padding: 40px;
+}
